@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+A passionate learner and a tech enthusiast who always strives to do his level best to improve his skills. I'm currently pursuing my Computer Science and Engineering @ NIT Hamirpur. I'm always open to opportunities that help me grow and increase my skill set.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[1someshverma](https://www.linkedin.com/in/1someshverma/)
