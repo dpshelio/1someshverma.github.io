@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting selectd for GSoC'23@RADIS!
+title: Getting selected for GSoC'23@RADIS!
 ---
 
 
