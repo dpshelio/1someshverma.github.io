@@ -8,7 +8,7 @@ title: Getting selectd for GSoC'23@RADIS!
 
 I am Somesh Verma,a third year undergrad at National Institute of Technology Hamirpur. I have been accepted as contributor to the OpenAstronomy  RADIS.
 
-### Chossing Organisation 
+### Choosing Organisation 
 I  chose OpenAstronomy as i have interest in astronomy right from my childhood and RADIS also aline with my interst and skills .I have also contributed to Libre Health App for Baby Care but then i shifted my focus i attention only to RADIS . By the end i had four merged pull request and I was working on the fifth issue.
 
 ### Contriutions and Experience 
