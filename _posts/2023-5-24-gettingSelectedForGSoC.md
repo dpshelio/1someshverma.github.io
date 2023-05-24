@@ -4,8 +4,6 @@ title: Getting selectd for GSoC'23@RADIS!
 ---
 
 
-## Getting selected for GSoC'23@RADIS
-
 I am Somesh Verma,a third year undergrad at National Institute of Technology Hamirpur. I have been accepted as contributor to the OpenAstronomy  RADIS.
 
 ### Choosing Organisation 
