@@ -49,6 +49,11 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# Author information for the RSS feeds. If `author` is not listed
+# on the front-matter of each post, it will use this as the default.
+# https://github.com/jekyll/jekyll-feed#author-information
+author: Somesh Verma
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
